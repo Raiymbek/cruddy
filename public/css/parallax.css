@@ -1,0 +1,50 @@
+.divider {
+    height:50px;
+}
+
+
+
+.bg-1 {
+    background: url(../img/intro-bg.jpg) no-repeat center center fixed;
+    color:#fff;
+    background-size:cover;
+    height:90%;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+}
+
+.bg-2 {
+    background: url(../img/intro-bg1.jpg) no-repeat top center fixed;
+    color:#fff;
+    background-size:cover;
+    height:400px;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+}
+
+.bg-3 {
+    background: url(../img/intro-bg.jpg) no-repeat bottom center fixed;
+    color:#fff;
+
+    background-size:cover;
+    height:400px;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+    color:#efefef;
+}
+
