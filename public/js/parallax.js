@@ -20,6 +20,7 @@
 
             // Save a reference to the element
             var $this = $(this);
+        
 
             // Set up Scroll Handler
             $(document).scroll(function(){
@@ -27,6 +28,7 @@
                 var scrollTop = $(window).scrollTop();
                 var offset = $this.offset().top;
                 var height = $this.outerHeight();
+
 
                 // Check if above or below viewport
                 if (offset + height <= scrollTop || offset >= scrollTop + windowHeight) {

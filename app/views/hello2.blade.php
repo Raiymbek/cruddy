@@ -27,7 +27,7 @@
 		<div class="col-lg-5 col-sm-6">
             <div class="clearfix"></div>
             <h2 class="section-heading">Обо мне</h2>
-            <p class="lead">I’m a web & user experience designer living in New York City, where I currently work as Chief Product Officer at Schoology (a company I founded in 2009). I lead product design, corporate identity, and get my hands dirty coding the site’s CSS and front-end pages.
+            <p class="lead">Я такой то такойI’m a web & user experience designer living in New York City, where I currently work as Chief Product Officer at Schoology (a company I founded in 2009). I lead product design, corporate identity, and get my hands dirty coding the site’s CSS and front-end pages.
                                             At the office I’m teamed up with a group of extremely talented people, and together we make big things happen. We’ve been featured in Forbes, Entrepreneur Magazine, TechCrunch, and WashU Magazine.</p>
         </div>
 
@@ -41,14 +41,14 @@
 </section>
 <!--/container-->
 <div class="divider"></div>
-<section class="bg-2" id="services">
+<section class="bg-2">
 	<div class="col-sm-10 col-sm-offset-1 text-center">
 		<h1 class="">Keep Going</h1>
 
 	</div>
 </section>
 <div class="divider"></div>
-<section id ="contact">
+<section id="services">
 <div class="container">
 	<div class="row">
 		<div class="col-md-4">
@@ -105,10 +105,18 @@
 <!--/container-->
 <div class="divider"></div>
 <!--parallax 2 -->
-<section class="bg-3 text-center">
+<section class="bg-3 text-center"  >
 	<h1>Bootstrap Parallax</h1>
 
 
+</section>
+
+<section id="contact">
+    <div class="container">
+    	<div class="row">
+    	@include('layouts.contacts');
+
+    </div>
 </section>
 <!--/parallax 2-->
 <div id="footer" class="">
