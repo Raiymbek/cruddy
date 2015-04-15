@@ -11,9 +11,7 @@
 			<li>
 				<a href="https://www.facebook.com/raiymbek.nussipbekov" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
 			</li>
-			<li>
-				<a href="https://github.com/Raiymbek" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-			</li>
+
 			<li>
 				<a href="https://www.linkedin.com/profile/view?id=340063804&trk=nav_responsive_tab_profile_pic" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
 			</li>
@@ -114,7 +112,7 @@
 <section id="contact">
     <div class="container">
     	<div class="row">
-    	@include('layouts.contacts');
+    	@include('layouts.contacts')
 
     </div>
 </section>

@@ -20,7 +20,7 @@
 
             // Save a reference to the element
             var $this = $(this);
-        
+
 
             // Set up Scroll Handler
             $(document).scroll(function(){
