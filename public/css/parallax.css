@@ -8,7 +8,7 @@
     background: url(../img/intro-bg.jpg) no-repeat center center fixed;
     color:#fff;
     background-size:cover;
-    height:90%;
+    height:100%;
     width: 100%;
     padding-top:50px;
     padding-bottom:50px;
@@ -48,4 +48,11 @@
 #footer a {
     color:#efefef;
 }
-
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+    .bg-1 {
+        /* The file size of this background image is 93% smaller
+         * to improve page load speed on mobile internet connections */
+        background-image: url(../img/background-photo-mobile-devices.jpg);
+    }
+}
