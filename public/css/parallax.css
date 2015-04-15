@@ -5,7 +5,7 @@
 
 
 .bg-1 {
-    background: url(../img/intro-bg.jpg) no-repeat center center ;
+    background: url(../img/intro-bg.jpg) no-repeat center center fixed;
     color:#fff;
     background-size:cover;
     height:100%;
@@ -16,7 +16,7 @@
 }
 
 .bg-2 {
-    background: url(../img/bg-1.jpg) no-repeat top center ;
+    background: url(../img/bg-1.jpg) no-repeat top center;
     color:#fff;
     background-size:cover;
     height:400px;
@@ -53,6 +53,12 @@
     .bg-1 {
         /* The file size of this background image is 93% smaller
          * to improve page load speed on mobile internet connections */
-        background: url(../img/background-photo-mobile-devices.jpg);
+        background: url(../img/background-photo-mobile-devices.jpg) no-repeat center center;
+    }
+    .bg-2{
+        background: url(../img/bg-1.jpg) no-repeat center center;
+    }
+    .bg-3{
+        background: url(../img/intro-bg.jpg) no-repeat center center;
     }
 }
