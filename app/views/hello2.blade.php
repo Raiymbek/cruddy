@@ -45,8 +45,9 @@
 
 	</div>
 </section>
-<div class="divider"></div>
 <section id="services">
+<div class="divider"></div>
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-4">
