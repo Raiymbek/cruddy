@@ -25,7 +25,7 @@
 		<div class="col-lg-5 col-sm-6">
             <div class="clearfix"></div>
             <h2 class="section-heading">Обо мне</h2>
-            <p class="lead">Я такой то такойI’m a web & user experience designer living in New York City, where I currently work as Chief Product Officer at Schoology (a company I founded in 2009). I lead product design, corporate identity, and get my hands dirty coding the site’s CSS and front-end pages.
+            <p class="lead">Я web & user experience designer живущий в Алмате, где в данный момент я работаю в Huawei как инженер по программному обеспечению. Я занимаюсь разработкой I lead product design, corporate identity, and get my hands dirty coding the site’s CSS and front-end pages.
                                             At the office I’m teamed up with a group of extremely talented people, and together we make big things happen. We’ve been featured in Forbes, Entrepreneur Magazine, TechCrunch, and WashU Magazine.</p>
         </div>
 

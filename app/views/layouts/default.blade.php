@@ -30,7 +30,22 @@
     </head>
 
     <body>
-
+<!-- {literal} -->
+<script type='text/javascript'>
+    window['li'+'veT'+'e'+'x'] = true,
+    window['liv'+'eTex'+'I'+'D'] = 98651,
+    window['li'+'veT'+'ex_'+'object'] = true;
+    (function() {
+        var t = document['creat'+'eE'+'l'+'eme'+'nt']('script');
+        t.type ='text/javascript';
+        t.async = true;
+        t.src = '//cs15.live'+'te'+'x.ru/js/c'+'lient.js';
+        var c = document['getEleme'+'ntsByT'+'agName']('script')[0];
+        if ( c ) c['pare'+'n'+'tNo'+'de']['ins'+'ert'+'Before'](t, c);
+        else document['do'+'cumentE'+'lem'+'ent']['fi'+'rs'+'tC'+'h'+'ild']['a'+'p'+'p'+'endCh'+'ild'](t);
+    })();
+</script>
+<!-- {/literal} -->
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation" id="menu" >
 	<div class="container topnav">
